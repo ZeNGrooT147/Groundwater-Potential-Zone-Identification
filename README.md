@@ -193,3 +193,4 @@ python app_hybrid.py
 **Author:** AI-Powered Groundwater Prediction System  
 **License:** MIT
 "dev-link-test" 
+"dev-index" 
