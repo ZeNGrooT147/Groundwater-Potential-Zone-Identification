@@ -196,3 +196,4 @@ python app_hybrid.py
 "dev-index" 
 "jira-sync-test" 
 "sync-start" 
+"fix: updated README" 
